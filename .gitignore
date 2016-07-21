@@ -1,0 +1,9 @@
+# Ignore generated files
+*.bin
+*.dtb
+generated.dts
+
+# Ignore files copied from other projects
+*.elf
+*.elf
+*.bit
